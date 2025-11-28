@@ -55,5 +55,5 @@ short_movie_count = netflix_year90s[
 ].shape[0]
 
 ### Results:
-Most frequent movie duration in the 1990s: 94 minutes
-Number of short action movies released in the 1990s: 7
+#Most frequent movie duration in the 1990s: 94 minutes
+#Number of short action movies released in the 1990s: 7
